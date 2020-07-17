@@ -1,3 +1,0 @@
-{
-	cat("Nothing here, either...");
-}
